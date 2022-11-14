@@ -97,8 +97,8 @@ body {
   -o-transition: all 0.8s ease 0s;
 }
 .wave-btn:hover .wave-btn__waves {
-  /* top: -50px; */
-  transform: translateY(-50%);
+  top: -50px;
+  /* transform: translateY(-50%); */
 }
 .wave-btn__waves:after,
 .wave-btn__waves:before {
